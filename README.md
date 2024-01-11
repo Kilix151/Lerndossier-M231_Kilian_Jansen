@@ -5,11 +5,11 @@
 **Unterscheidung der Begriffe Datensicherheit und Datenschutz**
 
 
-
-|                             **Unterscheidung Datensicherheit**                                       |                 **Unterscheidung Datenschutz**                 |  **Gemeinsamkeiten**       |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                             **Unterscheidung Datensicherheit**                                       |                 **Unterscheidung Datenschutz**                 |  **Gemeinsamkeiten**       |
+|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------|
 |  *Technische Methoden um Schutzziele, Vertraulichkeit, Verfügbarkeit und Integrität zu Gewähleisten* |  *der Umgang mit Personen bezogenen Daten gestzlich zu Regeln* |  *geregelt durch die DSG*  |     
-
+|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------|
  
 ![Triangle](\Kilian Jansen\Downloads\DatensicherheitDreieck.PNG)
 
