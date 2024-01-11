@@ -5,13 +5,13 @@
 **Unterscheidung der Begriffe Datensicherheit und Datenschutz**
 
 
----------------------------------------------------------------------------------------------------------------------------------------------
-¦ **Unterscheidung Datensicherheit** ¦  *Technische Methoden um Schutzziele, Vertraulichkeit, Verfügbarkeit und Integrität zu Gewähleisten* ¦
-¦------------------------------------¦------------------------------------------------------------------------------------------------------¦
-¦   **Unterscheidung Datenschutz**   ¦                   *der Umgang mit Personen bezogenen Daten gestzlich zu Regeln*                      ¦
-¦------------------------------------¦------------------------------------------------------------------------------------------------------¦
-¦       **Gemeinsamkeiten**          ¦                                   *geregelt durch die DSG*                                           ¦
----------------------------------------------------------------------------------------------------------------------------------------------
+|------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Unterscheidung Datensicherheit** |  *Technische Methoden um Schutzziele, Vertraulichkeit, Verfügbarkeit und Integrität zu Gewähleisten* |
+|------------------------------------|------------------------------------------------------------------------------------------------------|
+|   **Unterscheidung Datenschutz**   |                   *der Umgang mit Personen bezogenen Daten gestzlich zu Regeln*                      |
+|------------------------------------|------------------------------------------------------------------------------------------------------|
+|       **Gemeinsamkeiten**          |                                   *geregelt durch die DSG*                                           |
+|------------------------------------|------------------------------------------------------------------------------------------------------|
 
  
 ![Triangle](\Kilian Jansen\Downloads\DatensicherheitDreieck.PNG)
