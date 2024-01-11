@@ -5,13 +5,15 @@
 **Unterscheidung der Begriffe Datensicherheit und Datenschutz**
 
 
+
+| **Unterscheidung Datensicherheit** | **Unterscheidung Datenschutz** |  **Gemeinsamkeiten**   
 |------------------------------------|------------------------------------------------------------------------------------------------------|
-| **Unterscheidung Datensicherheit** |  *Technische Methoden um Schutzziele, Vertraulichkeit, Verfügbarkeit und Integrität zu Gewähleisten* |
-|------------------------------------|------------------------------------------------------------------------------------------------------|
-|   **Unterscheidung Datenschutz**   |                   *der Umgang mit Personen bezogenen Daten gestzlich zu Regeln*                      |
-|------------------------------------|------------------------------------------------------------------------------------------------------|
-|       **Gemeinsamkeiten**          |                                   *geregelt durch die DSG*                                           |
-|------------------------------------|------------------------------------------------------------------------------------------------------|
+|  *Technische Methoden um 
+    Schutzziele, Vertraulichkeit,
+    Verfügbarkeit und Integrität
+    zu Gewähleisten*                  
+|                                    |
+|       **Gemeinsamkeiten**          |                                                                       |
 
  
 ![Triangle](\Kilian Jansen\Downloads\DatensicherheitDreieck.PNG)
@@ -23,4 +25,12 @@
 
 
         
+
+|------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Unterscheidung Datensicherheit** |  *Technische Methoden um Schutzziele, Vertraulichkeit, Verfügbarkeit und Integrität zu Gewähleisten* |
+|------------------------------------|------------------------------------------------------------------------------------------------------|
+|   **Unterscheidung Datenschutz**   |                   *der Umgang mit Personen bezogenen Daten gestzlich zu Regeln*                      |
+|------------------------------------|------------------------------------------------------------------------------------------------------|
+|       **Gemeinsamkeiten**          |                                   *geregelt durch die DSG*                                           |
+|------------------------------------|------------------------------------------------------------------------------------------------------|
 
