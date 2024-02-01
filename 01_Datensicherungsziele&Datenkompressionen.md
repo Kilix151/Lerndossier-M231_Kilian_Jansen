@@ -30,3 +30,47 @@ Whatsapp und Signal gelten als am sichersten, da sie Ende-zu-Ende-Verschlüsselu
 
 Der Identitätsdiebstahl ist, wenn sich jemand als jemanden anderes ausgibt, um illegale oder betrügerische Aktivitäten zu vollbringen. Die Folgen können finanzielle Probleme, Rufschädigung und rechtliche Probleme sein.
 
+# **Checkliste**
+
+**01 Persönliche Informationen schützen**
+
+Geben Sie nicht mehr persönliche Informationen preis als unbedingt nötig. --> Doch leider schon
+
+Surfen Sie anonym im Internet. --> Ja meistens
+
+Löschen Sie temporäre Internetdateien (im Cache) und den Browserverlauf regelmässig. --> Ja sonst fängt es an zu laggen.
+
+**02 Angriffe abwehren**
+
+Führen Sie Sicherheitsupdates regelmässig durch (insbesondere von Windows, MacOS, Java, Adobe Flash und Adobe Reader). -->
+
+Aktivieren Sie Firewalls – auf Windows – auf MacOS). -->
+
+Wählen Sie sichere Browsereinstellungen. -->
+
+Installieren Sie Virenschutzprogramme, zum Beispiel Windows-Sicherheit, Avira, oder Avast -->
+
+**03 Zugriffe Unberechtigter verhindern**
+
+Verwenden Sie sichere Passwörter. Dabei hilft Passwortcheck. -->
+
+Nutzen Sie fremde drahtlose Netzwerke mit Vorsicht. -->
+
+Verschlüsseln Sie Ihr eigenes drahtloses Netzwerk. -->
+
+Nutzen Sie die Bildschirmsperre. Anleitung für Windows und MacOS -->
+
+**04 Verschlüsseln Sie sensitive Inhalte**
+
+Verschlüsseln Sie Datenträger. Anleitung für Windows und MacOS -->
+
+Verschlüsseln Sie E-Mails mit sensitivem Inhalt. -->
+
+**05 Sichern Sie Informationen und löschen Sie Daten vollständig**
+
+Führen Sie regelmässig Datensicherungen (Back-ups) durch. Anleitung für Windows und MacOS. -->
+
+Bewahren Sie Sicherheitskopien feuer- und diebstahlsicher auf. -->
+
+Löschen Sie Informationen vor Entsorgung oder Verkauf des PCs vollständig, zum Beispiel unter Verwendung spezieller Software. Dabei helfen DBAN oder PartedMagic. -->
+
