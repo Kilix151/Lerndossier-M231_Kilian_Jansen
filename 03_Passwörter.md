@@ -25,16 +25,28 @@ Um meine digitale Sicherheit zu gewährleisten, habe ich meine eigene Passwortve
 3. **Nutzung eines Passwortmanagers:**
 Ich verwende einen Passwortmanager, um alle meine Passwörter sicher zu speichern. Der Zugriff erfolgt ausschließlich über ein starkes Masterpasswort.
 
-4. **Verwendung einzigartiger Passwörter:**
+|                     |            Keeper                 | Wertung  |      Netwrix Pasword Secure        |  Wertung  |             Google Passwort Manager             |  Wertung  |
+|---------------------|-----------------------------------|----------|------------------------------------|-----------|-------------------------------------------------|-----------|
+|      Link           | [keeper.com](https://keeper.com/) |  erfüllt | [netwrix.com](https://netwrix.com) |  erfüllt  |  [Manager](chrome://password-manager/passwords) | erfüllt   |
+|---------------------|-----------------------------------|----------|------------------------------------|-----------|-------------------------------------------------|-----------|
+| Verschlüsselung     |          AES-256-Bit              |  erfüllt |           MSSQL-Datenbank          |  erfüllt  |                     AES-256                     |  erfüllt  |
+|---------------------|-----------------------------------|----------|------------------------------------|-----------|-------------------------------------------------|-----------|
+|   OpenSource        |                                   |          |                                    |           |                                                 |           |
+|---------------------|-----------------------------------|----------|------------------------------------|-----------|-------------------------------------------------|-----------|
+|  Synchronisation    |                                   |          |                                    |           |                                                 |           |
+|---------------------|-----------------------------------|----------|------------------------------------|-----------|-------------------------------------------------|-----------|
+| Ablageort Datenbank |                                   |          |                                    |           |                                                 |           |
+
+5. **Verwendung einzigartiger Passwörter:**
 Für jedes Konto erstelle ich ein individuelles, robustes Passwort. Dadurch wird es für Hacker erschwert, auf kompromittierte Konten zuzugreifen.
 
-5. **Dokumentation:**
+6. **Dokumentation:**
 Sämtliche Konten und die dazugehörigen Passwörter habe ich in einer sicheren und verschlüsselten Liste oder Datei dokumentiert.
 
-6. **Regelmäßige Aktualisierung:**
+7. **Regelmäßige Aktualisierung:**
 Eine regelmäßige Aktualisierung der Passwörter, insbesondere für wichtige Konten, gewährleistet eine zeitgemäße Sicherheit.
 
-7. **Datensicherung:**
+8. **Datensicherung:**
 Zur Sicherheit sichere ich meine Passwortdaten regelmäßig, um im Notfall eine problemlose Wiederherstellung zu ermöglichen.
 
 Dieses Vorgehen ermöglicht mir eine übersichtliche Verwaltung meiner Zugangsdaten und stellt sicher, dass sie geschützt sind.
