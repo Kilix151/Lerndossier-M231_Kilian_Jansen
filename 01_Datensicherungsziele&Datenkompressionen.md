@@ -23,8 +23,10 @@ Länder in der EU haben oft gleiche oder ähnliche Datenschutzgesetze. Das Ausku
 Cybermobbing ist das Schikanieren/Mobben von Personen im Internet. Es hat mit dem Datenschutz zu tun. In den meisten Cybermobbingfällen werden persönliche Informationen online missbraucht. Der Datenschutz schützt einen vor unerlaubter Verbreitung von persönlichen Daten.
 
 **Was ist sicherer: Telegram, Signal, WhatsApp? Weshalb?**
+
 Whatsapp und Signal gelten als am sichersten, da sie Ende-zu-Ende-Verschlüsselung verwenden. Telegram bietet auch Verschlüsselung an, aber nicht als Standard für alle Chats.
 
 **Was ist Identitätsdiebstahl? Was sind die Folgen?**
+
 Der Identitätsdiebstahl ist, wenn sich jemand als jemanden anderes ausgibt, um illegale oder betrügerische Aktivitäten zu vollbringen. Die Folgen können finanzielle Probleme, Rufschädigung und rechtliche Probleme sein.
 
