@@ -25,7 +25,7 @@ Um meine digitale Sicherheit zu gewährleisten, habe ich meine eigene Passwortve
 3. **Nutzung eines Passwortmanagers:**
 Ich verwende einen Passwortmanager, um alle meine Passwörter sicher zu speichern. Der Zugriff erfolgt ausschließlich über ein starkes Masterpasswort.
 
-4. **Verwendung einzigartiger Passwörter:
+4. **Verwendung einzigartiger Passwörter:**
 Für jedes Konto erstelle ich ein individuelles, robustes Passwort. Dadurch wird es für Hacker erschwert, auf kompromittierte Konten zuzugreifen.
 
 5. **Dokumentation:**
