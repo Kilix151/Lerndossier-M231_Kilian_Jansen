@@ -38,3 +38,7 @@ Eine regelmäßige Aktualisierung der Passwörter, insbesondere für wichtige Ko
 Zur Sicherheit sichere ich meine Passwortdaten regelmäßig, um im Notfall eine problemlose Wiederherstellung zu ermöglichen.
 
 Dieses Vorgehen ermöglicht mir eine übersichtliche Verwaltung meiner Zugangsdaten und stellt sicher, dass sie geschützt sind.
+
+# **Keeper**
+
+Ich habe mich für den Passwortmanager Keeper entschieden. Das kommt daher das wir in der Familie diesen Passwortmanager benutzen und ich nie schelchte erfahrung damit hatte.
