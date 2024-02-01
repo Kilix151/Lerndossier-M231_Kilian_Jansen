@@ -1,88 +1,109 @@
-# Backup
+**Backup**
 
-Backup bedeutet, eine Kopie deiner wichtigen Daten zu machen, damit du sie wiederherstellen kannst, falls etwas schief geht. Es ist wie ein Sicherheitsnetz für deine Dateien, um Verluste durch z.B. einen Geräteausfall oder Datenfehler zu vermeiden.
-
-**Block-Level Backup:**
-Ich sichere nur die Teile meiner Dateien, die sich seit dem letzten Backup geändert haben. Das spart Zeit und Speicherplatz, da nicht das gesamte Dokument erneut gesichert wird, sondern nur die veränderten "Blöcke".
-
-**File-Level Backup:**
-Wenn ich ein File-Level Backup mache, sichere ich das gesamte Dokument, auch wenn nur ein kleiner Teil davon geändert wurde. Es ist einfacher zu verstehen, aber kann mehr Zeit und Speicherplatz in Anspruch nehmen.
-
-(für mich/für mein Verständniss)
+Backup ist die Erstellung einer Kopie wichtiger Daten, um im Falle von Problemen eine Wiederherstellung zu ermöglichen. Es fungiert als Sicherheitsnetz, um Verluste durch beispielsweise Geräteausfall oder Datenfehler zu vermeiden.
 
 **Block-Level Backup:**
-Es ist wie ein spezifischer Blick auf Lego-Blöcke. Nur die geänderten Blöcke werden gesichert, nicht das gesamte Set. Spart Zeit und Speicherplatz.
+
+Hierbei werden nur geänderte Teile von Dateien gesichert, spart Zeit und Speicherplatz, indem nur die veränderten "Blöcke" erneut gesichert werden.
 
 **File-Level Backup:**
-Denk an ein Fotoalbum. Hier werden ganze Fotos gesichert. Selbst wenn nur ein Detail geändert wurde, wird das gesamte Bild neu gesichert. Einfach, aber braucht mehr Platz und Zeit.
+
+Im Gegensatz dazu sichert ein File-Level Backup das gesamte Dokument, auch wenn nur ein kleiner Teil davon geändert wurde. Einfacher zu verstehen, benötigt jedoch mehr Zeit und Speicherplatz.
 
 
-Ich habe meine wichtigen Daten an verschiedenen Orten gespeichert. Um sicherzustellen, dass sie geschützt sind, mache ich Folgendes:
+**Block-Level Backup:**
+
+Vergleichbar mit einem spezifischen Blick auf Lego-Blöcke, werden nur die geänderten Blöcke gesichert, nicht das gesamte Set. Spart Zeit und Speicherplatz.
+
+**File-Level Backup:**
+
+Denkt man an ein Fotoalbum, so werden hier ganze Fotos gesichert. Selbst wenn nur ein Detail geändert wurde, wird das gesamte Bild erneut gesichert. Dies ist einfach, erfordert jedoch mehr Platz und Zeit.
+
+
+Um meine wichtigen Daten zu schützen, speichere ich sie an verschiedenen Orten:
 
 **Lokales Backup:**
-Auf meinem Computer sichere ich wichtige Dateien regelmäßig auf einer externen Festplatte. Das ist wie eine zusätzliche Sicherheitskopie direkt bei mir zu Hause. Darauf würde ich meine wichtigen Fotos/Videos oder Lokal abgespeicherte Spiele speichern.
+
+Regelmäßiges Sichern wichtiger Dateien auf einer externen Festplatte am eigenen Computer, ähnlich einer zusätzlichen Sicherheitskopie zu Hause.
 
 **Cloud-Backup:**
-Ich nutze auch Cloud-Services wie Google Drive oder Dropbox, um eine weitere Kopie meiner Daten online zu haben. Falls mein Computer ausfällt, kann ich von überall darauf zugreifen.
-So habe ich zwei Kopien meiner wichtigen Daten, eine zu Hause und eine in der Cloud, um sicherzustellen, dass ich sie nicht verliere. Heutzutage ist relativ viel auf der cloud gespeichert, z.B mail und software, deswegen wäre es keine schlechte Idee die cloud aktuell zu behalten falls unnötige turbulenzen vorkommen.
+
+Nutzung von Cloud-Services wie Google Drive oder Dropbox für eine weitere Kopie der Daten online. Im Falle eines Computerfehlers kann von überall darauf zugegriffen werden.
+
+So habe ich zwei Kopien meiner wichtigen Daten – eine zu Hause und eine in der Cloud –, um sicherzustellen, dass kein Datenverlust auftritt. Die Cloud ist besonders nützlich für die Speicherung von E-Mails und Software, und es ist ratsam, sie aktuell zu halten, um möglichen Unannehmlichkeiten vorzubeugen.
 
 
-## windows backup
+#Windows Backup
+**Startmenü öffnen:**
 
-1. **Startmenü öffnen:**
-Ich klicke auf das Startmenü unten links auf meinem Bildschirm.
+Klicken Sie auf das Startmenü unten links auf dem Bildschirm.
 
-2. **Einstellungen auswählen:**
-Dann wähle ich die "Einstellungen" aus, das ist das Zahnrad-Symbol.
+**Einstellungen auswählen:**
 
-3. **Update & Sicherheit:**
-Innerhalb der Einstellungen gehe ich zu "Update & Sicherheit".
+Wählen Sie die "Einstellungen" aus, erkennbar am Zahnrad-Symbol.
 
-4. **Backup:**
-Dort finde ich die Option "Backup" und wähle sie aus.
+**Update & Sicherheit:**
 
-5. **Backup hinzufügen:**
-Unter "Backup" klicke ich auf "Backup hinzufügen" und folge den Anweisungen, um mein erstes Backup einzurichten.
+Innerhalb der Einstellungen gehen Sie zu "Update & Sicherheit".
+
+**Backup:**
+
+Dort finden Sie die Option "Backup" und wählen sie aus.
+
+**Backup hinzufügen:**
+
+Unter "Backup" klicken Sie auf "Backup hinzufügen" und folgen den Anweisungen, um Ihr erstes Backup einzurichten.
+
 
 So richte ich ein Backup auf meinem Windows-Notebook ein. Es kann je nach Windows-Version kleine Unterschiede geben, aber normalerweise ist der Ablauf recht ähnlich.
 
 
-## Verschlüsseltes cloud-backup
-
-1. **Cloud-Speicher auswählen:**
-Ich wähle meinen bevorzugten Cloud-Speicher aus, zum Beispiel Google Drive oder Dropbox.
-
-2. **Dateien für Backup auswählen:**
-Dann wähle ich die Dateien und Ordner aus, die ich sichern möchte.
-
-3. **Verschlüsselung aktivieren:**
-Innerhalb der Cloud-Einstellungen oder bei der Backup-Einrichtung suche ich nach der Option zur Verschlüsselung. Ich aktiviere diese Funktion, damit meine Daten sicher sind.
-
-4. **Passwort festlegen:**
-Ich lege ein starkes Passwort fest, das nur ich kenne. Dieses Passwort wird verwendet, um meine Daten zu verschlüsseln und zu entschlüsseln.
-
-5. **Backup starten:**
-Abschließend starte ich das Backup. Die ausgewählten Dateien werden nun verschlüsselt und sicher in der Cloud gespeichert.
-
-So habe ich meine wichtigen Daten verschlüsselt und sicher in der Cloud gesichert.
+**Verschlüsseltes Cloud-Backup**
 
 
+**Cloud-Speicher auswählen:**
+
+Auswahl des bevorzugten Cloud-Speichers, wie Google Drive oder Dropbox.
+
+**Dateien für Backup auswählen:**
+
+Auswahl der zu sichernden Dateien und Ordner.
+
+**Verschlüsselung aktivieren:**
+
+Suche nach der Option zur Verschlüsselung in den Cloud-Einstellungen oder bei der Backup-Einrichtung und Aktivierung dieser Funktion.
+
+**Passwort festlegen:**
+
+Festlegung eines starken Passworts, das nur der Benutzer kennt, zur Verschlüsselung und Entschlüsselung der Daten.
+
+**Backup starten:**
+
+Start des Backups, wodurch die ausgewählten Dateien verschlüsselt und sicher in der Cloud gespeichert werden.
+
+
+So sichere ich meine wichtigen Daten verschlüsselt und sicher in der Cloud.
 
 **Wohin sollen die wiederhergestellten Dateien?**
-Die wiederhergestellten Dateien sollten an einen sicheren Ort gehen, der vorzugsweise nicht der ursprüngliche Ort des Backups ist, um Verwechslungen zu vermeiden.
 
-**Werden durch eine komplette Wiederherstellung allenfalls andere Arbeitsdaten, die nicht wiederhergestellt werden müssen auch überschrieben?**
-Ja, bei einer kompletten Wiederherstellung könnten vorhandene Daten überschrieben werden. Daher ist es wichtig, vor der Wiederherstellung sicherzustellen, dass keine wichtigen aktuellen Daten verloren gehen.
+Die wiederhergestellten Dateien sollten an einen sicheren Ort gehen, vorzugsweise nicht der ursprüngliche Ort des Backups, um Verwechslungen zu vermeiden.
 
-**Müssen diese allenfalls vor der Wiederherstellung weg gesichert werden, um nichts zu verlieren?**
-Ja, bei einer kompletten Wiederherstellung könnten vorhandene Daten überschrieben werden. Daher ist es wichtig, vor der Wiederherstellung sicherzustellen, dass keine wichtigen aktuellen Daten verloren gehen.
+**Überschreibung von Arbeitsdaten bei kompletter Wiederherstellung?**
 
-**Lassen sich auch einzelne Dateien wiederherstellen?**
+Ja, bei einer kompletten Wiederherstellung könnten vorhandene Daten überschrieben werden. Daher ist es wichtig, sicherzustellen, dass keine wichtigen aktuellen Daten verloren gehen.
+
+**Vor der Wiederherstellung sichern?**
+
+Ja, vor einer kompletten Wiederherstellung sollten vorhandene Daten gesichert werden, um einen Verlust zu vermeiden.
+
+**Selektive Wiederherstellung einzelner Dateien möglich?**
+
 Ja, moderne Backup-Tools ermöglichen die selektive Wiederherstellung einzelner Dateien.
 
-**Ist es allenfalls auch möglich die Dateien aus dem Backup in ein anderes wie das Arbeitsverzeichnis wiederherzustellen, um nichts unbeabsichtigt zu überschreiben?**
+**Dateien in ein anderes Verzeichnis wiederherstellen?**
+
 Ja, oft können Sie wählen, in welches Verzeichnis die wiederhergestellten Dateien platziert werden sollen, um bestehende Daten nicht zu beeinträchtigen.
 
-**Recht der Festplattenplatz des Gerätes dann noch aus für die Wiederherstellung?**
-Ja, vor der Wiederherstellung ist es wichtig sicherzustellen, dass genügend freier Festplattenplatz vorhanden ist, um die wiederhergestellten Daten aufzunehmen.
+**Reicht der Festplattenplatz für die Wiederherstellung aus?**
 
+Ja, vor der Wiederherstellung ist es wichtig sicherzustellen, dass genügend freier Festplattenplatz vorhanden ist, um die wiederhergestellten Daten aufzunehmen.
