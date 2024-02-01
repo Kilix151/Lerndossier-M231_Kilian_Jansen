@@ -3,11 +3,13 @@
 Die Entschlüsselung von Caesar-Nachrichten mittels Kryptoanalyse erwies sich für mich als faszinierendes Experiment. 
 Die Grundidee, eine Nachricht durch einfache Buchstabenschiebung im Alphabet zu verschlüsseln, weckte mein Interesse. 
 Daher begann ich, mich intensiver mit Kryptoanalyse zu beschäftigen und verschiedene Methoden zu erforschen, um diese Verschlüsselungsart zu knacken.
+
 **1.**
 
 Hash-Funktionen dienen als digitale Fingerabdrücke für Daten.
 Sie nehmen Informationen und erzeugen eine eindeutige Zeichenfolge aus Buchstaben und Zahlen – ein digitaler Fingerabdruck.
 Selbst geringfügige Datenänderungen führen zu vollständig unterschiedlichen Hashwerten. 
+
 **2.**
 
 PGP (Pretty Good Privacy) fungiert als digitaler Briefumschlag für E-Mails und gewährleistet sichere Kommunikation. 
