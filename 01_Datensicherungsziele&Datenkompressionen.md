@@ -32,6 +32,8 @@ Der Identitätsdiebstahl ist, wenn sich jemand als jemanden anderes ausgibt, um 
 
 # **Checkliste**
 
+# *PC-Sicherheit erhöhen*
+
 **01 Persönliche Informationen schützen**
 
 Geben Sie nicht mehr persönliche Informationen preis als unbedingt nötig. --> Doch leider schon
@@ -46,31 +48,72 @@ Führen Sie Sicherheitsupdates regelmässig durch (insbesondere von Windows, Mac
 
 Aktivieren Sie Firewalls – auf Windows – auf MacOS). --> Ja
 
-Wählen Sie sichere Browsereinstellungen. -->
+Wählen Sie sichere Browsereinstellungen. --> Ja
 
-Installieren Sie Virenschutzprogramme, zum Beispiel Windows-Sicherheit, Avira, oder Avast -->
+Installieren Sie Virenschutzprogramme, zum Beispiel Windows-Sicherheit, Avira, oder Avast --> Ja, AdBlocker oder HP WOLF SECURITY oder kapersky
 
 **03 Zugriffe Unberechtigter verhindern**
 
-Verwenden Sie sichere Passwörter. Dabei hilft Passwortcheck. -->
+Verwenden Sie sichere Passwörter. Dabei hilft Passwortcheck. -->  Yes, i do
 
-Nutzen Sie fremde drahtlose Netzwerke mit Vorsicht. -->
+Nutzen Sie fremde drahtlose Netzwerke mit Vorsicht. --> Ich bin kein Fan von Fremden Netzen
 
-Verschlüsseln Sie Ihr eigenes drahtloses Netzwerk. -->
+Verschlüsseln Sie Ihr eigenes drahtloses Netzwerk. --> Nein
 
-Nutzen Sie die Bildschirmsperre. Anleitung für Windows und MacOS -->
+Nutzen Sie die Bildschirmsperre. Anleitung für Windows und MacOS --> Ja
 
 **04 Verschlüsseln Sie sensitive Inhalte**
 
-Verschlüsseln Sie Datenträger. Anleitung für Windows und MacOS -->
+Verschlüsseln Sie Datenträger. Anleitung für Windows und MacOS -->  Ja aber nicht immer
 
-Verschlüsseln Sie E-Mails mit sensitivem Inhalt. -->
+Verschlüsseln Sie E-Mails mit sensitivem Inhalt. --> Nein, sowas sende ich nicht
 
 **05 Sichern Sie Informationen und löschen Sie Daten vollständig**
 
-Führen Sie regelmässig Datensicherungen (Back-ups) durch. Anleitung für Windows und MacOS. -->
+Führen Sie regelmässig Datensicherungen (Back-ups) durch. Anleitung für Windows und MacOS. --> Automatische Backups werden gemacht
 
-Bewahren Sie Sicherheitskopien feuer- und diebstahlsicher auf. -->
+Bewahren Sie Sicherheitskopien feuer- und diebstahlsicher auf. --> Ja ausser jemand zündet unser Haus an
 
-Löschen Sie Informationen vor Entsorgung oder Verkauf des PCs vollständig, zum Beispiel unter Verwendung spezieller Software. Dabei helfen DBAN oder PartedMagic. -->
+Löschen Sie Informationen vor Entsorgung oder Verkauf des PCs vollständig, zum Beispiel unter Verwendung spezieller Software. Dabei helfen DBAN oder PartedMagic. --> Nein
+
+# *Webtracking Verhindern*
+
+**01 Organisatorische Massnahmen treffen**
+
+Geben Sie möglichst wenige Informationen im Internet bekannt. --> Ja
+
+Treffen Sie datenschutzfreundliche Einstellungen in Webanwendungen wie Facebook, Twitter, Google+, Youtube etc. --> Ja
+
+Nutzen Sie unterschiedliche Anbieter und Dienste (zum Beispiel E-Mail statt Facebook-Chat). --> Glaube schon
+
+Melden Sie sich nach der Nutzung eines Dienstes sofort ab. --> Nein
+
+Nutzen Sie Privacy-Suchmaschinen wie DuckDuckGo, Startpage oder Anonymizer-Websites wie Anonymouse --> Ja, Google inkoknito
+
+Benutzen Sie für Anwendungen, die eine eindeutige Identifikation verlangen (zum Beispiel soziale Netzwerke und E-Mail-Dienste) einen separaten Browser. --> Ja, 2FA
+
+**02 Browser-Einstellungen überprüfen**
+
+Aktivieren Sie die Option «Do Not Track». --> Nein
+
+Deaktivieren Sie die Option «Cookies von Drittanbietern akzeptieren». --> Nein
+
+Aktivieren Sie die Option «Automatisches Löschen von Cookies» (möglicherweise ist hierfür ein Add-on nötig). --> Ja
+
+Aktivieren Sie die Option «Automatisches Löschen von Caches und Verlauf». --> Nein, Manuell
+
+
+**03 Zusatzsoftware für den Browser installieren**
+
+Mit Ghostery können Sie Trackingdienste blockieren. --> brauche ich nicht
+
+Unerwünschte Scripts verhindern Sie mit NoScript für Firefox. --> ich preferiere Chrome
+
+Cookies automatisch löschen, können Sie mithilfe von Cookie AutoDelete Firefox. --> Nein, ich mag cookies.
+
+Die Identifikationsinformationen des Systems verschleiern Sie mit Tor Browser. --> Ja, dieser ist sehr gut
+
+Der Facebook Container für Firefox schützt Websites vor Tracking durch Facebook. -->  Kann sein
+
+Cookie-Einwilligungs-Banner können durch Nervenschoner unterdrückt werden. -->  Weiss nicht
 
