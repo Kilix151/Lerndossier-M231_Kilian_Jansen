@@ -21,7 +21,7 @@ Aufgabe
 
 Plattform --> **Netflix**
 
-Die AGBs von Netflix findet man [hier]([https://help.netflix.com/legal/termsofuse/])
+Die AGBs von Netflix findet man [hier](https://help.netflix.com/legal/termsofuse/)
 
 Es werden folgende Daten gespeichert:
 
