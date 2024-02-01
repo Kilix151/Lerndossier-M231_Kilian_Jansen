@@ -28,7 +28,7 @@ Ich verwende einen Passwortmanager, um alle meine Passwörter sicher zu speicher
 ![](images/Keeper.png)
 |                     |            Keeper                 | Wertung  |      Netwrix Pasword Secure        |  Wertung      |             Google Passwort Manager             |  Wertung      |
 |---------------------|-----------------------------------|----------|------------------------------------|---------------|-------------------------------------------------|---------------|
-|      Link           | [keeper.com](https://keeper.com/) |  erfüllt | [netwrix.com](https://netwrix.com) |  erfüllt      |  [Manager](chrome://password-manager/passwords) | erfüllt       |
+|      Link           | [keeper.com](https://keeper.com/) |  erfüllt | [netwrix.com](https://netwrix.com) |  erfüllt      |  [Manager](https://password-manager/passwords) | erfüllt       |
 | Verschlüsselung     |          AES-256-Bit              |  erfüllt |           MSSQL-Datenbank          |  erfüllt      |                     AES-256                     |  erfüllt      |
 |   OpenSource        |               **✓**               | erfüllt  |            **╳**                  | nicht erfüllt |                      **╳**                     | nicht erfüllt |
 |  Synchronisation    |               **✓**               | erfüllt  |             **✓**                 |   erfüllt     |                       **✓**                     |  erfüllt      |
