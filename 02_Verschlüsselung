@@ -1,11 +1,18 @@
 ## Verschlüsselung
 
-Ich fand es sehr spannend mit der cryptoanalyse die verschlüsselten Ceasar Nachrichten zu knacken. 
-Es begann für mich als einfaches Experiment, als ich zum ersten Mal von der Caesar-Verschlüsselung hörte. Die Idee, eine Nachricht durch einfache Verschiebung der Buchstaben im Alphabet zu verschlüsseln, faszinierte mich. Also begann ich, mich tiefer in die Kryptoanalyse einzuarbeiten und verschiedene Methoden zu erforschen, um diese Art von Verschlüsselung zu knacken.
+Die Entschlüsselung von Caesar-Nachrichten mittels Kryptoanalyse erwies sich für mich als faszinierendes Experiment. 
+Die Grundidee, eine Nachricht durch einfache Buchstabenschiebung im Alphabet zu verschlüsseln, weckte mein Interesse. 
+Daher begann ich, mich intensiver mit Kryptoanalyse zu beschäftigen und verschiedene Methoden zu erforschen, um diese Verschlüsselungsart zu knacken.
+**1.**
 
-Bei Hash war mir nicht ganz alles Klar, aber ich konnte ein zwei dinge mitnehmen, ein Hash ist wie ein Fingerabdruck für Daten. Es nimmt Informationen und gibt eine eindeutige Zeichenfolge aus Buchstaben und Zahlen zurück, die wie ein digitaler Fingerabdruck ist. Selbst kleine Änderungen an den Daten führen zu einem völlig anderen Hashwert.
+Hash-Funktionen dienen als digitale Fingerabdrücke für Daten.
+Sie nehmen Informationen und erzeugen eine eindeutige Zeichenfolge aus Buchstaben und Zahlen – ein digitaler Fingerabdruck.
+Selbst geringfügige Datenänderungen führen zu vollständig unterschiedlichen Hashwerten. 
+**2.**
 
-PGP (Pretty Good Privacy) ist wie ein digitaler Briefumschlag für meine E-Mails. Wenn ich jemandem eine sichere Nachricht senden möchte, verwende ich PGP. Hier ist, wie es funktioniert:
+PGP (Pretty Good Privacy) fungiert als digitaler Briefumschlag für E-Mails und gewährleistet sichere Kommunikation. 
+Bei der Übermittlung sicherer Nachrichten nutze ich PGP. Das Prinzip beruht auf Verschlüsselungstechniken, die die Privatsphäre der Kommunikation schützen-
+
 
 1. **Verschlüsselung:** 
 
