@@ -1,28 +1,26 @@
 # Datensicherungsziele und Datenkompressionen
 
-Datenschutzziele konzentrieren sich darauf, die Integrität, Vertraulichkeit und Verfügbarkeit von Daten zu gewährleisten, authentische Benutzeridentitäten sicherzustellen, nichtabstreitbare Transaktionen zu ermöglichen und transparente, zweckgebundene Datennutzung zu fördern. Datenschutz umfasst auch Prinzipien wie Datensparsamkeit und Rechenschaftspflicht, um sicherzustellen, dass Datenschutzrichtlinien eingehalten werden.
+1. Datenschutzziele zielen darauf ab, die Unversehrtheit, Vertraulichkeit und Erreichbarkeit von Daten sicherzustellen. Dies beinhaltet die Authentifizierung von Benutzeridentitäten, die Gewährleistung nichtabstreitbarer Transaktionen und die Förderung transparenter, zweckgebundener Datennutzung. Grundsätze wie Datensparsamkeit und Rechenschaftspflicht sind ebenfalls integral, um die Einhaltung von Datenschutzrichtlinien zu garantieren.
 
-Auf der anderen Seite zielt Datenkompression darauf ab, Speicherplatz und Bandbreite zu optimieren. Durch die Reduzierung der Datenmenge wird Platz gespart, die Effizienz der Datenübertragung verbessert und die Kosten für Speicherung und Übertragung gesenkt. Dies trägt zur beschleunigten Datenübertragung, Kosteneffizienz und insgesamt verbesserten Leistung bei. Bei der Anwendung von Datenkompression ist jedoch darauf zu achten, dass die Daten korrekt wiederhergestellt werden können und Datenschutzanforderungen erfüllt werden.
+2. Datenkompression strebt danach, Speicherplatz und Bandbreite zu optimieren. Dies geschieht durch Verringerung der Datenmenge, was zu Platzersparnis, verbesserte Effizienz der Datenübertragung und Kostenreduktion für Speicherung und Übertragung führt. Diese Maßnahme fördert beschleunigte Datenübertragung, Kosteneffizienz und generell verbesserte Leistung. Es ist jedoch essenziell, bei der Anwendung von Datenkompression darauf zu achten, dass Daten korrekt wiederhergestellt werden können und Datenschutzanforderungen erfüllt sind.
 
-Datensicherungsziele sind von entscheidender Bedeutung, um die Integrität, Verfügbarkeit und Wiederherstellbarkeit von Daten sicherzustellen. Durch die regelmäßige Sicherung von Informationen wird nicht nur die Dauerhaftigkeit und Vertraulichkeit gewährleistet, sondern auch die Effizienz und Automatisierung von Sicherungsprozessen ermöglicht. Der Schutz vor Datenverlusten, minimale Ausfallzeiten und die Einhaltung gesetzlicher Vorschriften sind ebenfalls essenzielle Ziele. Eine skalierbare und gut durchdachte Datensicherungsstrategie ermöglicht es Unternehmen, sich flexibel an veränderte Anforderungen anzupassen und sicherzustellen, dass im Falle von Störungen oder Katastrophen eine schnelle und zuverlässige Wiederherstellung möglich ist.
-
-Auf der anderen Seite zielt Datenkompression darauf ab, Speicherplatz und Bandbreite zu optimieren. Durch die Reduzierung der Datenmenge wird Platz gespart, die Effizienz der Datenübertragung verbessert und die Kosten für Speicherung und Übertragung gesenkt. Dies trägt zur beschleunigten Datenübertragung, Kosteneffizienz und insgesamt verbesserten Leistung bei. Bei der Anwendung von Datenkompression ist jedoch darauf zu achten, dass die Daten korrekt wiederhergestellt werden können und Datenschutzanforderungen erfüllt werden.
+3. Datensicherungsziele sind von hoher Bedeutung, um Integrität, Verfügbarkeit und Wiederherstellbarkeit von Daten sicherzustellen. Durch regelmäßige Sicherungen wird nicht nur Dauerhaftigkeit und Vertraulichkeit gewährleistet, sondern auch Effizienz und Automatisierung von Sicherungsprozessen ermöglicht. Schutz vor Datenverlust, minimale Ausfallzeiten und die Einhaltung gesetzlicher Vorschriften sind weitere essenzielle Ziele. Eine gut durchdachte Datensicherungsstrategie erlaubt Unternehmen flexible Anpassung an veränderte Anforderungen und sichert schnelle, zuverlässige Wiederherstellung bei Störungen oder Katastrophen.
 
 **Was ist ein Meme? Welche Memes sind erlaubt, welche nicht? Gibt es Regeln?**
-Ein Meme ist ein Bild, Video oder Text, der humorvoll verbreitet wird. Erlaubte Memes respektieren die Rechte anderer, sind nicht beleidigend und verstoßen nicht gegen Gesetze. Regeln können je nach Plattform variieren.
+Ein Meme ist ein Bild, Video oder Text, welcher lusting und humorvoll verbreitet werden soll. Ein teil der Memes sind beleidigend gegen die Rechte anderer, die guten jeodch sind nicht beleidigend und legal. Die meisten Plattformen akzeptieren keine anstössigen Memes.
 
 **Wo finde ich das Datenschutzgesetz? Von wann ist die aktuelle Fassung? Was steht da so drin?**
-Das Datenschutzgesetz kann auf den offiziellen Regierungsseiten oder bei Datenschutzbehörden gefunden werden. Die aktuelle Fassung kann unterschiedlich sein, aber die DSGVO (Datenschutz-Grundverordnung) ist eine wichtige europäische Regelung. Dort stehen Regeln zum Schutz persönlicher Daten.
+Das Datenschutzgesetz findet man meistens auf den Regierungsseiten deines Landes oder bei Datenschutzbehörden. Die aktuelle Regel kann unterschiedlich sein, aber die Datenschutz Grundverordnung (DSGVO) ist eine  Regelung geregelt in ganz Europa. Da findet man Regeln zum Schutz persönlicher Daten.
 
 **Welche Länder haben ein gleichwertiges Datenschutzgesetz? Was sind meine Rechte (Stichwort Auskunftsrecht)?**
-Länder der Europäischen Union haben oft ähnliche Datenschutzgesetze. Das Auskunftsrecht erlaubt es, Informationen darüber zu erhalten, welche persönlichen Daten gesammelt werden und wie sie verwendet werden.
+Länder in der EU haben oft gleiche oder ähnliche Datenschutzgesetze. Das Auskunftsrecht bewilligt, Informationen darüber zu erhalten, welche persönlichen Daten von einem gesammelt werden und wie sie verwendet werden, Legal oder Illegal.
 
 **Was ist Cybermobbing? Hat Cybermobbing etwas mit Datenschutz zu tun? Begründen Sie.**
-Cybermobbing ist das Belästigen oder Schikanieren von Menschen im Internet. Es hat mit Datenschutz zu tun, da persönliche Informationen online missbraucht werden können. Datenschutz schützt vor unerlaubter Verbreitung von persönlichen Informationen.
+Cybermobbing ist das Schikanieren/Mobben von Personen im Internet. Es hat mit dem Datenschutz zu tun. In den meisten Cybermobbingfällen werden persönliche Informationen online missbraucht. Der Datenschutz schützt einen vor unerlaubter Verbreitung von persönlichen Daten.
 
 **Was ist sicherer: Telegram, Signal, WhatsApp? Weshalb?**
-Signal und WhatsApp gelten als sicherer, da sie Ende-zu-Ende-Verschlüsselung verwenden. Telegram bietet ebenfalls Verschlüsselung, aber nicht standardmäßig für alle Chats.
+Whatsapp und Signal gelten als am sichersten, da sie Ende-zu-Ende-Verschlüsselung verwenden. Telegram bietet auch Verschlüsselung an, aber nicht als Standard für alle Chats.
 
-**Was ist Identitätsdiebstahl? Was sind die Folgen?*3
-Identitätsdiebstahl ist, wenn jemand sich als jemand anderes ausgibt, um betrügerische Aktivitäten zu begehen. Die Folgen können finanzielle Verluste, Rufschädigung und rechtliche Probleme sein.
+**Was ist Identitätsdiebstahl? Was sind die Folgen?**
+Der Identitätsdiebstahl ist, wenn sich jemand als jemanden anderes ausgibt, um illegale oder betrügerische Aktivitäten zu vollbringen. Die Folgen können finanzielle Probleme, Rufschädigung und rechtliche Probleme sein.
 
