@@ -42,9 +42,9 @@ Löschen Sie temporäre Internetdateien (im Cache) und den Browserverlauf regelm
 
 **02 Angriffe abwehren**
 
-Führen Sie Sicherheitsupdates regelmässig durch (insbesondere von Windows, MacOS, Java, Adobe Flash und Adobe Reader). -->
+Führen Sie Sicherheitsupdates regelmässig durch (insbesondere von Windows, MacOS, Java, Adobe Flash und Adobe Reader). --> Ja
 
-Aktivieren Sie Firewalls – auf Windows – auf MacOS). -->
+Aktivieren Sie Firewalls – auf Windows – auf MacOS). --> Ja
 
 Wählen Sie sichere Browsereinstellungen. -->
 
