@@ -13,7 +13,7 @@
  
 ![alt Text](https://gitlab.com/ch-tbz-it/Stud/m231/-/raw/KES/01_Datenschutz/media/DatensicherheitDreieck.PNG)
 
-**Nutzungsbestimmungen und Datenschutzerklärungen verstehen den Inhalt interpretieren können**
+# **Nutzungsbestimmungen und Datenschutzerklärungen verstehen den Inhalt interpretieren können**
 
 
 
