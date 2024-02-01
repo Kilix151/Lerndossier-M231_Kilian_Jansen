@@ -7,15 +7,19 @@
 **3.** Datensicherungsziele sind von hoher Bedeutung, um Integrität, Verfügbarkeit und Wiederherstellbarkeit von Daten sicherzustellen. Durch regelmäßige Sicherungen wird nicht nur Dauerhaftigkeit und Vertraulichkeit gewährleistet, sondern auch Effizienz und Automatisierung von Sicherungsprozessen ermöglicht. Schutz vor Datenverlust, minimale Ausfallzeiten und die Einhaltung gesetzlicher Vorschriften sind weitere essenzielle Ziele. Eine gut durchdachte Datensicherungsstrategie erlaubt Unternehmen flexible Anpassung an veränderte Anforderungen und sichert schnelle, zuverlässige Wiederherstellung bei Störungen oder Katastrophen.
 
 **Was ist ein Meme? Welche Memes sind erlaubt, welche nicht? Gibt es Regeln?**
+
 Ein Meme ist ein Bild, Video oder Text, welcher lusting und humorvoll verbreitet werden soll. Ein teil der Memes sind beleidigend gegen die Rechte anderer, die guten jeodch sind nicht beleidigend und legal. Die meisten Plattformen akzeptieren keine anstössigen Memes.
 
 **Wo finde ich das Datenschutzgesetz? Von wann ist die aktuelle Fassung? Was steht da so drin?**
+
 Das Datenschutzgesetz findet man meistens auf den Regierungsseiten deines Landes oder bei Datenschutzbehörden. Die aktuelle Regel kann unterschiedlich sein, aber die Datenschutz Grundverordnung (DSGVO) ist eine  Regelung geregelt in ganz Europa. Da findet man Regeln zum Schutz persönlicher Daten.
 
 **Welche Länder haben ein gleichwertiges Datenschutzgesetz? Was sind meine Rechte (Stichwort Auskunftsrecht)?**
+
 Länder in der EU haben oft gleiche oder ähnliche Datenschutzgesetze. Das Auskunftsrecht bewilligt, Informationen darüber zu erhalten, welche persönlichen Daten von einem gesammelt werden und wie sie verwendet werden, Legal oder Illegal.
 
 **Was ist Cybermobbing? Hat Cybermobbing etwas mit Datenschutz zu tun? Begründen Sie.**
+
 Cybermobbing ist das Schikanieren/Mobben von Personen im Internet. Es hat mit dem Datenschutz zu tun. In den meisten Cybermobbingfällen werden persönliche Informationen online missbraucht. Der Datenschutz schützt einen vor unerlaubter Verbreitung von persönlichen Daten.
 
 **Was ist sicherer: Telegram, Signal, WhatsApp? Weshalb?**
