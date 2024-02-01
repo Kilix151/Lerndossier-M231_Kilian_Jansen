@@ -16,22 +16,22 @@ PGP (Pretty Good Privacy) fungiert als digitaler Briefumschlag für E-Mails und 
 Bei der Übermittlung sicherer Nachrichten nutze ich PGP. Das Prinzip beruht auf Verschlüsselungstechniken, die die Privatsphäre der Kommunikation schützen-
 
 
+
 1. **Verschlüsselung:** 
 
-Stell dir vor, meine Nachricht ist in einem Briefumschlag. PGP verschlüsselt diesen Umschlag, sodass nur die Person, für die die Nachricht bestimmt ist, sie öffnen kann. Niemand sonst kann den Inhalt sehen.
+Meine private Nachricht an einen Familienangehörigen ist in einem Brief. Dieser Brief wird von PGP verschlüsselt, sodass nur die Person (Familienangehöriger), für die den Brief bestimmt ist und ihn öffnen kann. Niemand sonst kann den Inhalt einsehen.
 
 2. **Schlüssel:** 
 
-Jeder hat zwei Schlüssel - einen öffentlichen und einen privaten. Der öffentliche Schlüssel ist wie meine Adresse, die ich allen geben kann. Jeder kann mir dann eine verschlüsselte Nachricht senden. Der private Schlüssel ist wie der geheime Schlüssel zu meinem Briefkasten - nur ich kann die verschlüsselten Nachrichten entschlüsseln.
+Jeder hat zwei Schlüssel, einen Public Key und einen Private Key. Der Public Key ist wie meine Mail, welche ich allen geben kann. Jeder kann mir dann eine verschlüsselte Nachricht senden. Der Private Key ist wie der geheime Schlüssel zu meiner Mail und nur ich kann die verschlüsselten Nachrichten entschlüsseln. Solang der Private Key nur in meinem Besitz ist.
 
 3. **Entschlüsselung:** 
 
-Wenn jemand mir eine verschlüsselte Nachricht sendet, benutze ich meinen privaten Schlüssel, um den digitalen Umschlag zu öffnen und die Nachricht zu lesen. Niemand sonst kann das, selbst wenn sie den öffentlichen Schlüssel haben.
+Wenn man mir eine verschlüsselte Mail sendet, benutze ich meinen Private Key, um die Mail zu öffnen und die Nachricht zu lesen. Nur Ich (der Empfänger) kann das, auch wenn jemand anderes den Public Key hat.
 
 
 
-Insgesamt sorgt PGP dafür, dass meine E-Mails privat bleiben, nur für die Augen bestimmt sind, für die sie gedacht sind. Es ist wie ein digitaler Brief mit einem unsichtbaren Umschlag, den nur der richtige Empfänger öffnen kann.
+PGP sorgt dafür, dass meine Mails privat sind und bleiben, da sie nur für mich gedacht sind. Es ist wie ein digitaler Brief mit einem unsichtbaren Umschlag, den nur Ich (der Empfänger) einsehen kann.
 
-Der Cryptomator wiederum war sehr faszinierend, da es eine open-source-website ist die wiederum da ist um Dateien zu sichern. Es gibt einen Tresor in dem all die verschlüsselten Passwörter gespeichert werden. dieser digitaler Tresor ist für meine Dateien in der Cloud. Ich lege meine sensiblen Daten in diesen "Tresor", der dann alles verschlüsselt. Das bedeutet, dass nur ich mit meinem Passwort auf meine Dateien zugreifen kann. Selbst wenn jemand auf die Cloud zugreift, sieht er nur nutzlose verschlüsselte Daten. Das gibt mir die Gewissheit, dass meine persönlichen Informationen geschützt sind, egal wo ich sie speichere.
-
+Der Cryptomator wiederum hat mich fasziniert, Cryptomator bietet eine Open-Source-Lösung für sicheres Dateimanagement in der Cloud. Durch einen verschlüsselten digitalen Tresor sind sensiblen Daten geschützt, und selbst bei einem Cloud-Zugriff bleibt die Privatsphäre gewahrt.
 
