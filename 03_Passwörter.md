@@ -25,15 +25,15 @@ Um meine digitale Sicherheit zu gewährleisten, habe ich meine eigene Passwortve
 3. **Nutzung eines Passwortmanagers:**
 Ich verwende einen Passwortmanager, um alle meine Passwörter sicher zu speichern. Der Zugriff erfolgt ausschließlich über ein starkes Masterpasswort.
 
-|                     |            Keeper                 | Wertung  |      Netwrix Pasword Secure        |  Wertung  |             Google Passwort Manager             |  Wertung  |
-|---------------------|-----------------------------------|----------|------------------------------------|-----------|-------------------------------------------------|-----------|
-|      Link           | [keeper.com](https://keeper.com/) |  erfüllt | [netwrix.com](https://netwrix.com) |  erfüllt  |  [Manager](chrome://password-manager/passwords) | erfüllt   |
-| Verschlüsselung     |          AES-256-Bit              |  erfüllt |           MSSQL-Datenbank          |  erfüllt  |                     AES-256                     |  erfüllt  |
-|   OpenSource        |                                   |          |                                    |           |                                                 |           |
-|  Synchronisation    |                                   |          |                                    |           |                                                 |           |
-| Ablageort Datenbank |                                   |          |                                    |           |                                                 |           |
+|                     |            Keeper                 | Wertung  |      Netwrix Pasword Secure        |  Wertung      |             Google Passwort Manager             |  Wertung      |
+|---------------------|-----------------------------------|----------|------------------------------------|---------------|-------------------------------------------------|---------------|
+|      Link           | [keeper.com](https://keeper.com/) |  erfüllt | [netwrix.com](https://netwrix.com) |  erfüllt      |  [Manager](chrome://password-manager/passwords) | erfüllt       |
+| Verschlüsselung     |          AES-256-Bit              |  erfüllt |           MSSQL-Datenbank          |  erfüllt      |                     AES-256                     |  erfüllt      |
+|   OpenSource        |               **✓**               | erfüllt  |            **╳**                  | nicht erfüllt |                      **╳**                     | nicht erfüllt |
+|  Synchronisation    |               **✓**               | erfüllt  |             **✓**                 |   erfüllt     |                       **✓**                     |  erfüllt      |
+| Ablageort Datenbank |               Cloud               | erfüllt  |           MSSQL-Datenbank          |   erfüllt     |                   unbekannt                     | nicht erfüllt |
 
-5. **Verwendung einzigartiger Passwörter:**
+5. **Verwendung einzigartiger Passwörter:**  
 Für jedes Konto erstelle ich ein individuelles, robustes Passwort. Dadurch wird es für Hacker erschwert, auf kompromittierte Konten zuzugreifen.
 
 6. **Dokumentation:**
