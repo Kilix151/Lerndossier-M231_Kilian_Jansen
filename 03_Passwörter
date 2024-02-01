@@ -1,1 +1,45 @@
+## Passwörter
+
+Passwörter basieren Grundsätzlich auf Buchstaben und Manchmal auch Sonderzeichen, man braucht Passwörter für jenste Dinge die du nicht öffenlich preisgeben willst, z.B dein Google account oder dein Steam account, würde es bei diesen Plattformen keine Passwörter geben wären deine Games und Daten öffentlich verfügbar nur schon wenn man deine email kennt. Für mich ist kein Passwort ein sicheres Passwort, mir kommt es eher drauf an wie viel Zeit es bracuht dein Passwort zu knacken weil dieser Zeitbedarf macht es wiederum **sicherer*3.
+
+
+1. **Warum verschiedene Passwörter?**
+
+Es macht Sinn, verschiedene Passwörter zu verwenden, damit nicht alle meine Konten gefährdet sind, wenn ein Passwort kompromittiert wird.
+
+2. **Welche Zugangsdaten sind am gefährlichsten?**
+
+Meine E-Mail-Zugangsdaten sind besonders kritisch, da sie oft als Schlüssel für andere Konten dienen können.
+
+1. **2FA (Zweifaktor-Authentifizierung):**
+
+Wenn ich mich einlogge, ist 2FA wie ein zweiter Sicherheitsschutz. Neben meinem Passwort benötige ich noch einen zusätzlichen Code, der auf mein Handy geschickt wird. Das macht es schwieriger für andere, sich in meine Konten einzuloggen, selbst wenn sie mein Passwort haben.
+
+2. **3FA (Dreifaktor-Authentifizierung):**
+
+3FA ist wie ein noch sichererer Club. Neben Passwort und Handycode brauche ich noch einen weiteren Bestätigungs-Faktor. Das könnte zum Beispiel ein Fingerabdruck oder ein spezieller Sicherheits-Token sein. Es ist wie ein extra Schloss, um sicherzustellen, dass nur ich Zugriff habe.
+
+Ich habe meine eigene Passwortverwaltung eingerichtet und dokumentiert. *Das funktioniert so:*
+
+1. **Passwortmanager nutzen:**
+
+Ich benutze einen Passwortmanager, um alle meine Passwörter sicher zu speichern. Nur ein starkes Masterpasswort gibt Zugriff.
+
+2. **Einzigartige Passwörter:**
+
+Für jedes Konto habe ich ein einzigartiges, starkes Passwort erstellt. Das macht es schwerer für Hacker, wenn ein Konto kompromittiert wird.
+
+3. **Dokumentation:**
+
+Ich habe alle meine Konten und die dazugehörigen Passwörter in einer Liste oder Datei dokumentiert. Dabei achte ich darauf, diese Information sicher und verschlüsselt zu speichern.
+
+4. **Aktualisierung:**
+
+Regelmäßig aktualisiere ich meine Passwörter, besonders für wichtige Konten. Das hält die Sicherheit auf dem neuesten Stand.
+
+5. **Backup:**
+
+Ich sichere meine Passwortdaten regelmäßig, um sicherzustellen, dass ich sie im Notfall wiederherstellen kann.
+
+So behalte ich den Überblick über meine Zugangsdaten und sorge dafür, dass sie sicher sind.
 
